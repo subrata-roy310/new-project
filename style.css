@@ -1,0 +1,34 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.full-websaid{
+    text-align: center;
+    color: white;
+    width: 1000px;
+    margin: 20px auto;
+    box-shadow: 1px 1px 6px rgba(0,0,0,.4);
+}
+.manu{
+    background: #2980b9;
+}
+.container{
+    background: #16a085;
+}
+.footer{
+    background: #7f8c8d;
+}
+.footer-copy{
+    background: #34495e;
+}
+img{
+    max-width: 100%;
+    margin-bottom: -5px;
+}
+.op{
+    padding: 30px 0;
+}
+.opx{
+    padding: 60px 0;
+}
